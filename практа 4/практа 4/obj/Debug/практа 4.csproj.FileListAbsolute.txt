@@ -1,0 +1,14 @@
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\bin\Debug\практа 4.exe.config
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\bin\Debug\практа 4.exe
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\bin\Debug\практа 4.pdb
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.csproj.AssemblyReference.cache
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа_4.Form1.resources
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа_4.Properties.Resources.resources
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.csproj.GenerateResource.cache
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.csproj.CoreCompileInputs.cache
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.exe
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа 4.pdb
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа_4.Form2.resources
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа_4.Form3.resources
+C:\Users\студент315\Desktop\PKS\практа 4\практа 4\obj\Debug\практа_4.reg.resources
