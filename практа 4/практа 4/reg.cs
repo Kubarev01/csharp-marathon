@@ -21,10 +21,28 @@ namespace практа_4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=U315-S7\\SQLEXPRESS07;Initial Catalog=marathon;User ID=egor;Password=egor;";
+            
+            string connectionString = "Server=U315-S7\\SQLEXPRESS07;Initial Catalog=marathon;User ID=egor;Password=egor;";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
+                if (string.IsNullOrWhiteSpace(first_name.Text) ||
+       string.IsNullOrWhiteSpace(last_name.Text) ||
+       string.IsNullOrWhiteSpace(email.Text) ||
+       string.IsNullOrWhiteSpace(password1.Text) ||
+       string.IsNullOrWhiteSpace(password2.Text) ||
+       string.IsNullOrWhiteSpace(sex.Text) ||
+       string.IsNullOrWhiteSpace(dateOfBirth.Text) ||
+       string.IsNullOrWhiteSpace(Country.Text))
+                {
+                    MessageBox.Show("Пожалуйста, заполните все поля.");
+                    return;
+                }
+                if (password1.Text != password2.Text)
+                {
+                    MessageBox.Show("Passwords do not match. Please try again.");
+                    return;
+                }
                 if (password1.Text == password2.Text)
                 {
                     try

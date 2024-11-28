@@ -198,7 +198,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(473, 372);
+            this.button1.Location = new System.Drawing.Point(481, 346);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 39);
             this.button1.TabIndex = 26;
@@ -208,9 +208,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(604, 372);
+            this.button2.Location = new System.Drawing.Point(596, 344);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 39);
+            this.button2.Size = new System.Drawing.Size(104, 43);
             this.button2.TabIndex = 27;
             this.button2.Text = "Отмена";
             this.button2.UseVisualStyleBackColor = true;
